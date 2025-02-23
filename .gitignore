@@ -1,0 +1,14 @@
+data/msigdb_v2024.1.Hs_GMTs
+data/human_index_standard
+data/quant
+data/reads
+
+gsea
+qc
+
+work
+tools
+multiqc_data
+
+
+.nextflow*
